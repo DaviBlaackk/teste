@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Site</title>
+</head>
+<body>
+  <h1>Meu Cabeçalho</h1>
+  <video width="50%" height="50%" controls>
+    <source src="video.mp4" type="video/mp4">
+    <source src="video.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+  <a href="#">Acessar Treinamento</a>
+  <div class="depoimentos">
+    <h2>Depoimentos</h2>
+    <p>"Estou muito satisfeito com o treinamento que recebi. Aprendi muito e já estou aplicando o que aprendi no meu trabalho." - João da Silva</p>
+    <p>"O treinamento foi muito bem organizado e o instrutor foi muito competente. Recomendo para todos que querem aprender mais sobre este assunto." - Maria da Silva</p>
+  </div>
+</body>
+</html>
